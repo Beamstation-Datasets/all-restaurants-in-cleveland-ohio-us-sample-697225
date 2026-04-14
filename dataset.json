@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Cleveland, Ohio with a population of over 372k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in Cleveland, Ohio, US",
+  "export_job_id": "f7e9f264-a0ef-4315-982c-e85eba4e82f7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 697225,
+  "location_name": "Cleveland",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-cleveland-ohio-us-sample-697225",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/697225/beamstation_697225_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_pct": 11.78,
+  "sample_records": 126,
+  "sample_sha256": "2f999a71d02e18ebfe5b7c8d769c52cbe243e3a89ff23b98723b707c5ea3fc6c",
+  "sample_size_bytes": 462310,
+  "total_records": 1070,
+  "updated_at": "2026-03-31T15:15:03.421655+00:00"
+}
